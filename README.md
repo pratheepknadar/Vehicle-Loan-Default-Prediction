@@ -23,6 +23,7 @@
 - Normalization for scaling the features
 - Cross-Validation
 - Machine Learning Models ([No Free Lunch Theorem](https://analyticsindiamag.com/what-are-the-no-free-lunch-theorems-in-data-science/))
+- Hyperparameter Tuning
 
 ### Technologies used
 - Python and it's ML related libraries
