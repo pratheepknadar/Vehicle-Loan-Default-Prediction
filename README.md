@@ -1,4 +1,4 @@
-# Vehicle Loan Default Predictor
+# Vehicle Loan Default Prediction
 
 #### Project Status: [100%]
 
